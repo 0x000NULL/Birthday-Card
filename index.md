@@ -2,9 +2,8 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>Birthday Card</title>
   <link rel="stylesheet" href="./style.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+
 
 </head>
 <body>
@@ -43,6 +42,6 @@
   </div>
 </div>
 <!-- partial -->
-  
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
 </body>
 </html>
