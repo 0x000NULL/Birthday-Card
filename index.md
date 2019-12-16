@@ -39,6 +39,7 @@
     <p id="head">Happy Birthday Jordan!</p>
     <p>You are an amazing friend and a a great person. I’m so thankful for the great memories and moments we’ve shared, and I look forward to so many more. Have a wonderful birthday.</p>
     <p>Hope your day goes great!</p>
+	  <p>	-Ethan Aldrich</p>
   </div>
 </div>
 <!-- partial -->
