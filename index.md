@@ -2,8 +2,9 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
+  <title>Birthday Card</title>
   <link rel="stylesheet" href="./style.css">
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
 
 </head>
 <body>
@@ -38,10 +39,10 @@
     <p id="head">Happy Birthday Jordan!</p>
     <p>You are an amazing friend and a a great person. I’m so thankful for the great memories and moments we’ve shared, and I look forward to so many more. Have a wonderful birthday.</p>
     <p>Hope your day goes great!</p>
-	  <p>	-Ethan Aldrich</p>
+	<p>	-Ethan Aldrich</p>
   </div>
 </div>
 <!-- partial -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+  
 </body>
 </html>
